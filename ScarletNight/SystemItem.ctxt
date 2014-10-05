@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SystemItem()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=getP1Hp\ getP2Hp\ getP1Energy\ getP2Energy
+comment2.target=void\ getSystemInfo(double,\ double,\ double,\ double)
+comment3.params=
+comment3.target=void\ setUp()
+numComments=4

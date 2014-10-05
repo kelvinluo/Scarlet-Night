@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=getXCoordinate\ getYCoordinate
+comment0.target=EnergyBar(int,\ int)
+comment1.params=getEnergy
+comment1.target=void\ setSize(double)
+numComments=2

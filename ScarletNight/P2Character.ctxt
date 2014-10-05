@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=getP2Character
+comment0.target=P2Character(java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ getSetUp()
+comment2.text=\r\n\ Set\ up\ which\ character\ P2\ is\ going\ to\ use\r\n
+comment3.params=
+comment3.target=void\ P2keyDetection()
+comment3.text=\r\n\ Check\ keys\ from\ the\ keybroad\r\n
+comment4.params=
+comment4.target=boolean\ dead()
+comment4.text=\r\n\ Check\ if\ the\ charater\ is\ dead\r\n
+comment5.params=
+comment5.target=boolean\ reset()
+comment5.text=\r\n\ reseting\ characters\r\n
+comment6.params=
+comment6.target=void\ resetP2player()
+comment7.params=
+comment7.target=double\ characterHitpoint()
+comment7.text=\r\n\ send\ the\ character\ states\ to\ the\ world\ and\ let\ it\ process\r\n
+comment8.params=
+comment8.target=double\ characterEnergy()
+comment9.params=
+comment9.target=void\ startGame()
+numComments=10

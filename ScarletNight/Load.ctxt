@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=getChar1\ getChar2
+comment0.target=Load(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=getList
+comment2.target=void\ imageChangeBond(int)
+comment2.text=\r\n\ The\ foloowing\ methods\ are\ used\ to\ load\ pictures\ of\ different\ characters\r\n
+comment3.params=getList
+comment3.target=void\ imageChangeRinger(int)
+comment4.params=getList
+comment4.target=void\ imageChangeMage(int)
+comment5.params=getList
+comment5.target=void\ imageChangeNinja(int)
+comment6.params=getList
+comment6.target=void\ imageChangeWhite(int)
+comment7.params=
+comment7.target=boolean\ returnResult()
+numComments=8

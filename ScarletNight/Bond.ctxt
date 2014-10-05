@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=getCharacter\ getX\ getY
+comment0.target=Bond(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=boolean\ ifDead()
+comment2.params=
+comment2.target=void\ setPosition()
+comment3.params=
+comment3.target=void\ imageChange()
+comment4.params=command
+comment4.target=void\ control(java.lang.String)
+comment5.params=
+comment5.target=double\ characterHitpoint()
+comment6.params=
+comment6.target=double\ characterEnergy()
+comment7.params=getX\ getY\ getWidth\ getLength\ getTime\ getDelay\ getDamage\ applyForce
+comment7.target=void\ dealtDamage(int,\ int,\ int,\ int,\ int,\ int,\ double,\ int)
+comment8.params=
+comment8.target=void\ damageDetection()
+comment9.params=getX\ getY\ getDirection
+comment9.target=void\ reset(int,\ int,\ boolean)
+numComments=11

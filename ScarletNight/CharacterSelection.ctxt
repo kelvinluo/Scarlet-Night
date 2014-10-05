@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=getStarted
+comment0.target=CharacterSelection(boolean)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ submission()
+comment2.text=\r\n\ This\ method\ will\ receive\ user\ choices\ from\ the\ decision\ from\ the\ actor\ p1Selection\ or\ p2Selection,\r\n
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=getP2Choice\ p2submission
+comment1.target=void\ userInterface(int,\ boolean)
+comment2.params=
+comment2.target=void\ characterSound()
+comment3.params=
+comment3.target=int\ returnChoice()
+comment4.params=
+comment4.target=boolean\ returnSubmission()
+numComments=5

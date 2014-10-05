@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=getDirection\ getCharacter
+comment0.target=SpitFire(boolean,\ java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ imageChange()
+comment3.params=getX\ getY\ getWidth\ getLength\ getTime\ getDelay\ getDamage\ applyForce
+comment3.target=void\ dealtDamage(int,\ int,\ int,\ int,\ int,\ int,\ double,\ int)
+numComments=4

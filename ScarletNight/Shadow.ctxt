@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=getX\ getY\ getDirection\ getDisplacement
+comment1.target=void\ getPosition(int,\ int,\ boolean,\ int)
+comment2.params=getGroundHeight\ width\ length
+comment2.target=void\ getSize(int,\ int,\ int)
+numComments=3

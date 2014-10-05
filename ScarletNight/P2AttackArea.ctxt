@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=xCoordinate\ yCoordinate\ getWidth\ getLength\ timeLast\ getDelay\ getDamage\ getForce\ getForceDirection
+comment0.target=P2AttackArea(int,\ int,\ int,\ int,\ int,\ int,\ double,\ int,\ boolean)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=double\ damageDealt()
+comment3.params=
+comment3.target=double\ dealForce()
+comment4.params=
+comment4.target=boolean\ returnForceDirection()
+numComments=5

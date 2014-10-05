@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=getP1Character
+comment0.target=P1Character(java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ getSetUp()
+comment2.text=\r\n\ Set\ up\ which\ character\ P1\ is\ going\ to\ use\r\n
+comment3.params=
+comment3.target=void\ p1keyDetection()
+comment3.text=\r\n\ Check\ keys\ from\ the\ keybroad\r\n
+comment4.params=
+comment4.target=boolean\ dead()
+comment4.text=\r\n\ Check\ if\ the\ charater\ is\ dead\r\n
+comment5.params=
+comment5.target=void\ resetPlplayer()
+comment5.text=\r\n\ reseting\ characters\r\n
+comment6.params=
+comment6.target=double\ characterHitpoint()
+comment6.text=\r\n\ send\ the\ character\ states\ to\ the\ world\ and\ let\ it\ process\r\n
+comment7.params=
+comment7.target=double\ characterEnergy()
+comment8.params=
+comment8.target=void\ startGame()
+numComments=9
